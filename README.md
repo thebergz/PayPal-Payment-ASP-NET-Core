@@ -16,7 +16,7 @@ This README would normally document whatever steps are necessary to get your app
 
 1. Install Visual Studio
 2. Clone the repo
-3. Update the PayPal Seller Client ID (with your Sandbox Seller's Client ID from the [PayPal Developer Dashboard](https://developer.paypal.com/developer/accounts/)) in the \paypalpayment\Views\Home\Payment.cshtml file.
+3. Update the PayPal Seller Client ID (with your Sandbox Seller's Client ID from the [PayPal Developer Dashboard](https://developer.paypal.com/developer/accounts/)) in the \paypalpayment\Views\Home\Index.cshtml and \paypalpayment\Views\Home\Payment.cshtml files (you only need 1 but there's a button in both).
 
 ### Setup Option 1 - Host Locally ###
 Note: This option is usually used for testing
